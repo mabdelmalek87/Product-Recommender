@@ -1,12 +1,12 @@
 # Product-Recommender
 Personalized product recommendation system using Retailrocket eCommerce data and collaborative filtering (SVD). Inspired by Best Buy's real-world personalization use case
-# 🛒 Product Recommender
+# Product Recommender
 
 A personalized product recommendation system inspired by Best Buy's personalization strategy, built using collaborative filtering on real eCommerce interaction data from Retailrocket.
 
 ---
 
-### 📊 Overview
+## Overview
 
 This project simulates a personalized homepage for an online shopper, showing them tailored product suggestions based on:
 
@@ -18,7 +18,7 @@ The model is trained on real-world user-event data including views, add-to-carts
 
 ---
 
-### 🔧 Tech Stack
+## Tech Stack
 
 - **Python 3.10**
 - **Pandas** for data wrangling
@@ -27,14 +27,14 @@ The model is trained on real-world user-event data including views, add-to-carts
 
 ---
 
-### 📁 Dataset
+## Dataset
 
 Retailrocket’s [eCommerce Dataset](https://www.kaggle.com/datasets/retailrocket/ecommerce-dataset)  
 (Not included due to file size. Download manually and place `events.csv` in the project folder.)
 
 ---
 
-### 🔍 Features
+## Features
 
 ✅ Collaborative Filtering using Surprise SVD  
 ✅ Real-user transactions for implicit feedback  
@@ -45,7 +45,7 @@ Retailrocket’s [eCommerce Dataset](https://www.kaggle.com/datasets/retailrocke
 
 ---
 
-### 📷 Preview
+## Preview
 
 > Example output from the recommender system:
 
@@ -53,7 +53,7 @@ Retailrocket’s [eCommerce Dataset](https://www.kaggle.com/datasets/retailrocke
 
 ---
 
-### 🚀 How to Run
+##  How to Run
 
 1. Clone the repository:
    ```bash
