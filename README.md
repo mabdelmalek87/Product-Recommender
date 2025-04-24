@@ -44,7 +44,8 @@ Personalized homepage with:
 - **Customers Also Bought**
 
 ---
-
+## Preview
+<img src="preview.png" alt="Recommendation Preview" width="700"/>
 
 ##  How to Run
 
