@@ -36,12 +36,12 @@ Retailrocket’s [eCommerce Dataset](https://www.kaggle.com/datasets/retailrocke
 
 ## Features
 
-✅ Collaborative Filtering using Surprise SVD  
-✅ Real-user transactions for implicit feedback  
-✅ Personalized homepage with:
-- 🧠 **Top Picks for You**
-- 👀 **Recently Viewed**
-- 👥 **Customers Also Bought**
+Collaborative Filtering using Surprise SVD  
+Real-user transactions for implicit feedback  
+Personalized homepage with:
+- **Top Picks for You**
+- **Recently Viewed**
+- **Customers Also Bought**
 
 ---
 
