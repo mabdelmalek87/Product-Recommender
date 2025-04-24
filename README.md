@@ -45,13 +45,6 @@ Personalized homepage with:
 
 ---
 
-## Preview
-
-> Example output from the recommender system:
-
-<img src="preview.png" alt="Recommendation Preview" width="700"/>
-
----
 
 ##  How to Run
 
